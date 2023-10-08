@@ -1,4 +1,3 @@
-Hi there 👋
+# **Ricardo Cárdenes** Data Scientist and Engineer
 
-This is Ricardo Cárdenes Pérez profile, I'm a Data Science and Engineering student at ULPGC
-📚 University of Las Palmas de Gran Canaria
+:books: Education: University of Las Palmas de Gran Canaria
