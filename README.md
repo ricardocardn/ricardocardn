@@ -6,7 +6,7 @@
 
 
 <p align="center">
-Data Science and Engineering Student. In this page you can get to see some of my coding, all related to this field.
+Data Science and Engineering Student. In this page you can see some of my coding, related to Data Engineering and Machine Learning.
 </p>
 
 <p align="center">
