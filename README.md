@@ -11,4 +11,4 @@ Data Science and Engineering Student. In this page you can get to see some of my
 
 <h1 align="center">Some of my Skills</h1>
 <p align="center">
-<img src="https://skills.thijs.gg/icons?i=docker,java,python,jupyter,c,linux,git&theme=dark"></p>
+<img src="https://skills.thijs.gg/icons?i=docker,java,python,r,c,linux,git&theme=dark"></p>
