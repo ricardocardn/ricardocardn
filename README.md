@@ -1,6 +1,8 @@
 <h1 align="center">Ricardo Cárdenes Pérez</h1>
 
+<p align="center">
 :books: Education: University of Las Palmas de Gran Canaria
+</p>
 
 Data Science and Engineering Student. In this page you can get to see some of my coding, all related to this field.
 
