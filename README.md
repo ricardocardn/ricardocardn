@@ -9,6 +9,6 @@ Data Science and Engineering Student. In this page you can get to see some of my
 </p>
 
 
-<h1 align="center">My Skills</h1>
+<h1 align="center">Some of my Skills</h1>
 <p align="center">
-<img src="https://skills.thijs.gg/icons?i=java,python,html,css,javascript,git&theme=dark"></p>
+<img src="https://skills.thijs.gg/icons?i=docker,java,python,c,linux,git&theme=dark"></p>
