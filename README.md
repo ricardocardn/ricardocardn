@@ -2,6 +2,10 @@
 
 <p align="center">
 :books: Education: University of Las Palmas de Gran Canaria
+</p>
+
+
+<p align="center">
 Data Science and Engineering Student. In this page you can get to see some of my coding, all related to this field.
 </p>
 
