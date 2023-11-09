@@ -6,7 +6,7 @@ Data Science and Engineering Student. In this page you can get to see some of my
 
 # Github Stats 📈
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlejandroVialardSantana&show_icons=true&count_private=true&theme=ayu-mirage" alt="Alejandro Vialard Santana's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ricardocardn&show_icons=true&count_private=true&theme=ayu-mirage" alt="Ricardo Cárdenes's Github Stats">
 </p>
 # Skills 🚀
 <p align="center">
