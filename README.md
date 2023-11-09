@@ -10,7 +10,7 @@ Data Science and Engineering Student. In this page you can get to see some of my
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ricardocardn&show_icons=true&count_private=false&theme=ayu-mirage" alt="My Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ricardocardn&show_icons=true&count_private=false&theme=transparent" alt="My Github Stats">
 </p>
 
 
