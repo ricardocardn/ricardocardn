@@ -1,4 +1,4 @@
-<h1 align="center" style="color: white;">Ricardo Cárdenes Pérez</h1>
+<h2 align="center" style="color: white;">Ricardo Cárdenes Pérez</h2>
 
 <p align="center">
 :books: Education: University of Las Palmas de Gran Canaria
@@ -14,6 +14,6 @@ Data Science and Engineering Student. In this page you can see some of my coding
 </p>
 
 
-<h1 align="center" style="color: white;">Some of my Skills</h1>
+<h2 align="center" style="color: white;">Some of my Skills</h2>
 <p align="center">
 <img src="https://skills.thijs.gg/icons?i=docker,java,python,pytorch,c,linux,git&theme=dark"></p>
