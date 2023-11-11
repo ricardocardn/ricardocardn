@@ -1,6 +1,4 @@
-<center>
-  # Ricardo Cárdenes Pérez
-</center>
+<h1 align="center">Ricardo Cárdenes Pérez</h1>
 
 <p align="center">
 :books: Education: University of Las Palmas de Gran Canaria
