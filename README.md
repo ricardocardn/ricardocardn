@@ -1,3 +1,11 @@
+<head>
+  <style>
+    h1 {
+      color: white;
+    }
+  </style>
+</head>
+
 <h1 align="center">Ricardo Cárdenes Pérez</h1>
 
 <p align="center">
