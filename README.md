@@ -1,12 +1,4 @@
-<head>
-  <style>
-    h1 {
-      color: white;
-    }
-  </style>
-</head>
-
-<h1 align="center">Ricardo Cárdenes Pérez</h1>
+<h1 align="center" style="color: white;">Ricardo Cárdenes Pérez</h1>
 
 <p align="center">
 :books: Education: University of Las Palmas de Gran Canaria
