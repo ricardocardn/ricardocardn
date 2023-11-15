@@ -2,6 +2,8 @@
 
 <p align="center">
 :books: Education: University of Las Palmas de Gran Canaria
+</p>
+<p align="center">
 :round_pushpin: Location: Las Palmas de Gran Canaria
 </p>
 
