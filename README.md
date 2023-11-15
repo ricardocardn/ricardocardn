@@ -10,7 +10,8 @@ Data Science and Engineering Student. In this page you can see some of my coding
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ricardocardn&show_icons=true&count_private=false&theme=dark" alt="My Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardocardn&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="200" alt="languages graph"  />
+</p>
 </p>
 
 
